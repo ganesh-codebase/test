@@ -4,3 +4,5 @@ print('hello change by feroz')
 
 print("feature change by dinesh")
 print("hi changed by feroz")
+a=25
+print(f"{a} print by feroz")
